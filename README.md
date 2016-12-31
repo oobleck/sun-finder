@@ -1,0 +1,2 @@
+# sun-finder
+Learning project
